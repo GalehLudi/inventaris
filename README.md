@@ -1,5 +1,33 @@
 # Sistem Inventaris Berbasis Laravel
 
+## Table Of Contents
+- [Sistem Inventaris Berbasis Laravel](#sistem-inventaris-berbasis-laravel)
+  - [Table Of Contents](#table-of-contents)
+  - [Schema Database](#schema-database)
+  - [Screenshots](#screenshots)
+    - [Home](#home)
+    - [Barang](#barang)
+      - [Index](#index)
+      - [Tambah](#tambah)
+      - [Update](#update)
+    - [Bagian](#bagian)
+      - [Index](#index-1)
+      - [Tambah](#tambah-1)
+      - [Update](#update-1)
+    - [Kategori](#kategori)
+      - [Index](#index-2)
+      - [Tambah](#tambah-2)
+      - [Update](#update-2)
+    - [Petugas](#petugas)
+      - [Index](#index-3)
+      - [Tambah](#tambah-3)
+      - [Update](#update-3)
+    - [Pengeluaran](#pengeluaran)
+      - [Index](#index-4)
+      - [Tambah](#tambah-4)
+      - [Modal Pilih Barang](#modal-pilih-barang)
+      - [Update](#update-4)
+
 ## Schema Database
 
 <center>
@@ -32,6 +60,7 @@
 
 <center>
   <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_18.png" width="70%" alt="Barang Update" />
+</center>
 
 ### Bagian
 
