@@ -30,120 +30,84 @@
 
 ## Schema Database
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_29_22.png" width="70%" alt="ERD" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_29_22.png" width="70%" alt="ERD" />
 
 ## Screenshots
 
 ### Home
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_05_13.png" width="70%" alt="Barang Index" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_05_13.png" width="70%" alt="Barang Index" />
 
 ### Barang
 
 #### Index
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_06_33.png" width="70%" alt="Barang Index" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_06_33.png" width="70%" alt="Barang Index" />
 
 #### Tambah
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_02.png" width="70%" alt="Barang Tambah" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_02.png" width="70%" alt="Barang Tambah" />
 
 #### Update
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_18.png" width="70%" alt="Barang Update" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_18.png" width="70%" alt="Barang Update" />
 
 ### Bagian
 
 #### Index
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_35.png" width="70%" alt="Bagian Index" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_35.png" width="70%" alt="Bagian Index" />
 
 #### Tambah
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_42.png" width="70%" alt="Bagian Tambah" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_42.png" width="70%" alt="Bagian Tambah" />
 
 #### Update
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_50.png" width="70%" alt="Bagian Update" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_50.png" width="70%" alt="Bagian Update" />
 
 ### Kategori
 
 #### Index
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_58.png" width="70%" alt="Kategori Index" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_07_58.png" width="70%" alt="Kategori Index" />
 
 #### Tambah
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_08_03.png" width="70%" alt="Kategori Tambah" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_08_03.png" width="70%" alt="Kategori Tambah" />
 
 #### Update
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_08_14.png" width="70%" alt="Kategori Update" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_08_14.png" width="70%" alt="Kategori Update" />
 
 ### Petugas
 
 #### Index
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_08_22.png" width="70%" alt="Petugas Index" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_08_22.png" width="70%" alt="Petugas Index" />
 
 #### Tambah
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_08_31.png" width="70%" alt="Petugas Tambah" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_08_31.png" width="70%" alt="Petugas Tambah" />
 
 #### Update
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_08_44.png" width="70%" alt="Petugas Update" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_08_44.png" width="70%" alt="Petugas Update" />
 
 ### Pengeluaran
 
 #### Index
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_08_50.png" width="70%" alt="Pengeluaran Index" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_08_50.png" width="70%" alt="Pengeluaran Index" />
 
 #### Tambah
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_09_01.png" width="70%" alt="Pengeluaran Tambah" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_09_01.png" width="70%" alt="Pengeluaran Tambah" />
 
 #### Modal Pilih Barang
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_09_16.png" width="70%" alt="Pengeluaran Modal Pilih Barang" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_09_16.png" width="70%" alt="Pengeluaran Modal Pilih Barang" />
 
 #### Update
 
-<center>
-  <img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_09_39.png" width="70%" alt="Pengeluaran Update" />
-</center>
+<img src="screenshots/Inventaris _ Home - Brave 15 Jul 2023 15_09_39.png" width="70%" alt="Pengeluaran Update" />
